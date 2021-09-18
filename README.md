@@ -1,3 +1,3 @@
 # cookiies
 
-[GitHub Pages](https://cookiies.github.io/cookiies/)
+[cookiies GitHub Pages](https://cookiies.github.io/cookiies/)
